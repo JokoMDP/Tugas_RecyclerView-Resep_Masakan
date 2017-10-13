@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="Resep">
+        <item>Donat</item>
+        <item>Mie Goreng</item>
+        <item>Jus</item>
+    </string-array>
+
+    <string-array name="Bahan">
+        <item>Tepung, Ragi, Air, Telur, Mentega</item>
+        <item>Mie, Air, Kecap, Sayuran, Minyak Goreng, Daging</item>
+        <item>Buah, Air, Es Batu</item>
+    </string-array>
+
+    <string-array name="Cara_Membuat">
+        <item>1. Campur ke wadah. 2. Aduk Hingga mengembang. 3. Cetak. 4. Goreng</item>
+        <item>1. Rebus Mie. 2. Campur semua bahan. 3. Masak di Penggorengan</item>
+        <item>1. Campur Es Batu, Air dan Buah yang telah dikupas. 2. Blender</item>
+    </string-array>
+
+</resources>
